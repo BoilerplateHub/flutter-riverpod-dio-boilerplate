@@ -54,19 +54,15 @@ class MyHomePage extends StatelessWidget {
       body: Column(
         children: [
           TextWidget(
-            LocaleKeys.breaker.tr(),
+            'You have pushed the button this many times:',
             font: "Zen Loop",
           ),
-          const Text(
-            'You have pushed the button this many times:',
-            
-          ),
-          // UpgradeAlert(
-          //   canDismissDialog: true,
-          //   debugDisplayAlways: true,
-          //   shouldPopScope: () => true,
-          //   child: const Text(''),
-          // ),
+          UpgradeAlert(
+           canDismissDialog: true,
+           debugDisplayAlways: true,
+           shouldPopScope: () => true,
+           child: const Text(''),
+         ),
         ],
       ),
     );
