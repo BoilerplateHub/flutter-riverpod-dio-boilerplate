@@ -1,6 +1,6 @@
-# thrive_mobile_app
+# Flutter Riverpod Dio Boilerplate
 
-A new Flutter project.
+A Boilerpate Flutter project.
 
 ## Getting Started
 
