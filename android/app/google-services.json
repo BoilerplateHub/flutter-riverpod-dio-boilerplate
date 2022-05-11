@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "275946878613",
+    "project_id": "demoapp-77088",
+    "storage_bucket": "demoapp-77088.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275946878613:android:e768fce9e9844f0e9d4d9c",
+        "android_client_info": {
+          "package_name": "com.zakaria.demo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275946878613-fng35fec6145mdtukbcuurh9u7e4lljm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfXXBzvrmRR1mP27wUzi4XwI2MFo7l8cY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275946878613-fng35fec6145mdtukbcuurh9u7e4lljm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
