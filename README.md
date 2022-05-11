@@ -1,12 +1,6 @@
-<<<<<<< HEAD
-# thrive_mobile_app
+# Riverpod boilerplate app
 
-A new Flutter project.
-=======
-# Flutter Riverpod Dio Boilerplate
-
-A Boilerpate Flutter project.
->>>>>>> d441c2ad7b8c50af11a5447ed65e77abb0927ca2
+A Boilerplate Flutter project.
 
 ## Getting Started
 
