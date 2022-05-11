@@ -44,12 +44,18 @@
   "terms_of_service": "Terms of Service",
   "empty_field_warning": " field can't be empty",
   "do_not_have_an_account": "Don't have an account?",
+<<<<<<< HEAD
+=======
+  "internet_connectivity_problem": "Internet connectivity problem",
+  "something_went_wrong": "Something went wrong! Please try again",
+>>>>>>> d441c2ad7b8c50af11a5447ed65e77abb0927ca2
   "password_reset_code": "Enter Password Reset Code",
   "want_to_logout": "Are you sure you want to logout?",
   "max_length_warning": " must be greater than or equal to 8",
   "enter_email_below": "Enter your registered email address below",
   "by_sign_in_up_you_agree_to_our": "By signin up you agree to our ",
   "can_not_contain_white_space": " field can't contain white space",
+<<<<<<< HEAD
   "special_char_warning": " must contain at least one digit and a special character",
 
   "pleaseWait": "Please wait...",
@@ -58,4 +64,7 @@
   "checkInternetConnectionFirst": "Please check your internet connection first",
   "somethingWentWrong": "Something went wrong! Please try again",
   "pageNotFound": "Page Not found"
+=======
+  "special_char_warning": " must contain at least one digit and a special character"
+>>>>>>> d441c2ad7b8c50af11a5447ed65e77abb0927ca2
 }

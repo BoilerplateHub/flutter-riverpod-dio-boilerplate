@@ -1,5 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="com.zakaria.demo.app">
+=======
+    package="com.example.thrive_mobile_app">
+>>>>>>> d441c2ad7b8c50af11a5447ed65e77abb0927ca2
     <!-- Flutter needs it to communicate with the running application
          to allow setting breakpoints, to provide hot reload, etc.
     -->
